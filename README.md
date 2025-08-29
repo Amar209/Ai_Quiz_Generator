@@ -12,5 +12,3 @@ An intelligent quiz generator built with Android Studio that transforms user pro
 
 ---
 
-## 🚀 Getting Started
-
